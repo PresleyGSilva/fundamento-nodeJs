@@ -1,0 +1,17 @@
+{
+  "name": "fundamento-nodeJs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:PresleyGSilva/fundamento-nodeJs.git",
+  "author": "Presley <presleygs.1607@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
